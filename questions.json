@@ -1,0 +1,52 @@
+[
+  {
+    "q": "🌌 Which planet is known as the Red Planet?",
+    "choices": ["Earth 🌍", "Mars 🔴", "Jupiter 🟠", "Venus ♀️"],
+    "a": "Mars 🔴"
+  },
+  {
+    "q": "🧬 What is the chemical symbol for water?",
+    "choices": ["O2", "H2O", "CO2", "NaCl"],
+    "a": "H2O"
+  },
+  {
+    "q": "🌍 Which country has the most pyramids?",
+    "choices": ["Egypt 🇪🇬", "Sudan 🇸🇩", "Mexico 🇲🇽", "Peru 🇵🇪"],
+    "a": "Sudan 🇸🇩"
+  },
+  {
+    "q": "💡 Who invented the light bulb?",
+    "choices": ["Nikola Tesla", "Albert Einstein", "Thomas Edison", "Isaac Newton"],
+    "a": "Thomas Edison"
+  },
+  {
+    "q": "⚡ What is the fastest land animal?",
+    "choices": ["Cheetah 🐆", "Lion 🦁", "Horse 🐎", "Greyhound 🐕"],
+    "a": "Cheetah 🐆"
+  },
+  {
+    "q": "📚 Which is the largest planet in our solar system?",
+    "choices": ["Saturn 🪐", "Jupiter 🟠", "Neptune 🔵", "Uranus ♅"],
+    "a": "Jupiter 🟠"
+  },
+  {
+    "q": "🎨 Who painted the Mona Lisa?",
+    "choices": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+    "a": "Leonardo da Vinci"
+  },
+  {
+    "q": "🌡️ What is the boiling point of water at sea level?",
+    "choices": ["90°C", "100°C", "120°C", "80°C"],
+    "a": "100°C"
+  },
+  {
+    "q": "⚛️ What particle has a positive charge?",
+    "choices": ["Electron", "Neutron", "Proton", "Photon"],
+    "a": "Proton"
+  },
+  {
+    "q": "📱 What does HTTP stand for?",
+    "choices": ["HyperText Transfer Protocol", "High Tech Transfer Process", "Hyperlink Text Protocol", "Home Transfer Protocol"],
+    "a": "HyperText Transfer Protocol"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "quiz-bot",
+  "version": "1.0.0",
+  "description": "Professional Knowledge Quiz Bot for Telegram with live leaderboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-cron": "^3.0.2",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
