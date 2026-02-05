@@ -1,0 +1,20 @@
+{
+  "name": "quiz-bot",
+  "version": "1.0.0",
+  "description": "Professional Telegram Quiz Bot with VIP, Couples, Mini-games, Animated backgrounds & stickers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3",
+    "node-telegram-bot-api": "^0.61.0",
+    "axios": "^1.6.0",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
+
