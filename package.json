@@ -1,0 +1,26 @@
+{
+  "name": "galaxy-casino-arena",
+  "version": "1.0.0",
+  "description": "Immersive Telegram casino bot with real animations, lounge chat, roulette, plane crash & VIP features",
+  "main": "index.js",
+  "type": "module",                    // ← optional but recommended for modern code
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"           // ← very useful for local development
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3",
+    "node-telegram-bot-api": "^0.66.0", // ← latest stable version (0.61 → 0.66 has fixes)
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"                 // ← only for local dev (auto-restart on file change)
+  },
+  "engines": {
+    "node": ">=18.0.0"                   // ← more precise & future-proof
+  },
+  "author": "Aren",
+  "license": "MIT"
+}
